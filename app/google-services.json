@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "385887997279",
+    "firebase_url": "https://socialmediafirebasetest.firebaseio.com",
+    "project_id": "socialmediafirebasetest",
+    "storage_bucket": "socialmediafirebasetest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385887997279:android:f0f2524d29a0b2f6",
+        "android_client_info": {
+          "package_name": "morteza.packag.com.socialmediafirebasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385887997279-ivd89m603nv4trbjijvt79aog83l0vld.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "morteza.packag.com.socialmediafirebasetest",
+            "certificate_hash": "f087327c41522d3be0576c42c6a425a111f0796d"
+          }
+        },
+        {
+          "client_id": "385887997279-q5m2qnijde6k95il7bunvm93t9o4b1n8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0D8mLlJA-lPicEpm9r7sIasMmcvt2tWM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385887997279-q5m2qnijde6k95il7bunvm93t9o4b1n8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
